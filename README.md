@@ -4,10 +4,11 @@ Ochtendritueel
 2) Benen uit bed gooien
 3) Badjas aan
 4) Douche aan
-5) Douchen
+5) Koffie aanzetten
+6) Douchen
   a) Tandenpoetsen
   b) wanneer nodig Scheren
-6) Koffie aanzetten
-7) Bammetje smeren
+7) Afdrogen
+8) Bammetje smeren
   a) eten + drinken
-8) Kleren aan
+9) Kleren aan
