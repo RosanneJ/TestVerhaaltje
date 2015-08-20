@@ -21,3 +21,6 @@ Ochtendritueel
 10) Tas inpakken
 11) Robbert typt een bericht
 12) Obbe heeft een dikke wang
+13) edit edit edit
+14) git push 'n pull
+15) Filmlijstje? InTime .... etc?
