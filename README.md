@@ -20,3 +20,4 @@ Ochtendritueel
 14) hoi Maarten
 10) Tas inpakken
 11) Robbert typt een bericht
+12) Obbe heeft een dikke wang
