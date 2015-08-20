@@ -15,3 +15,4 @@ Ochtendritueel
 10) kleren uit
 11) Kleren aan
 12) Tas inpakken
+13) Robbert typt een bericht
