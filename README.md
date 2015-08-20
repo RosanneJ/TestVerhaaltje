@@ -16,4 +16,8 @@ Ochtendritueel
 11) Kleren aan
 12) Tas inpakken
 13) Robbert typt een bericht
+<<<<<<< HEAD
 14) Maarten tikt een bericht
+=======
+14) hoi Maarten
+>>>>>>> ef6c47b779d9512e225378227568980e8ef0d5f5
