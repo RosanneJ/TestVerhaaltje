@@ -12,7 +12,5 @@ Ochtendritueel
 8) Bammetje smeren
   a) eten + drinken
 9) Kleren aan
-10) kleren uit
-11) Kleren aan
-12) Tas inpakken
-13) Robbert typt een bericht
+10) Tas inpakken
+11) Robbert typt een bericht
