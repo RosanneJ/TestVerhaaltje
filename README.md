@@ -8,7 +8,7 @@ Ochtendritueel
   a) Tandenpoetsen
   b) wanneer nodig Scheren
 7) Afdrogen
-8) Bammetje smeren
+8) Boterhammetje smeren
   a) eten + drinken
 9) Kleren aan
 10) Tas inpakken
