@@ -13,3 +13,4 @@ Ochtendritueel
   a) eten + drinken
 9) Kleren aan
 10) Ik begrijp er niks van
+11) Ik ben in slaap gevallen tijdens In Time ;)
