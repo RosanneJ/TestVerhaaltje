@@ -12,3 +12,4 @@ Ochtendritueel
 8) Bammetje smeren
   a) eten + drinken
 9) Kleren aan
+10) Ik begrijp er niks van
